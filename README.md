@@ -10,7 +10,7 @@
 
 📲 QQ/WeChat：3337123
 
-📫 How to reach me: [Admin[at]@chenplus.com](mailto:admin@chenplus.com)
+📫 How to reach me: [Admin[at]chenplus.com](mailto:admin@chenplus.com)
 
 🛠 Full-stack Web Developer & Android Developer
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HanMoe&show_icons=true&hide_border=true">
